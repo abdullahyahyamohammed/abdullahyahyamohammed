@@ -9,8 +9,8 @@
 - 🌱 I’m currently learning Deep learning
 - 👯 I’m looking to collaborate on Image Processing related works
 - 🤔 I’m open collaborations
-- 📫 How to reach me: [Channabasava_Chola](https://channu7.github.io/channa.io/)
-- 😄 Pronouns: Channa 
+- 📫 How to reach me: [AB=bdullah Y Muaad](https://github.com/abdullahyahyamohammed)
+- 😄 Pronouns: Abdullah
 <br>
 <p align="center">
 <!--
