@@ -9,7 +9,7 @@
 - 🌱 I’m currently learning Deep learning
 - 👯 I’m looking to collaborate on Image Processing related works
 - 🤔 I’m open collaborations
-- 📫 How to reach me:[Abdullah Y Muaad](https://github.com/abdullahyahyamohammed/abdullahY)
+- 📫 How to reach me:[Abdullah Y Muaad](https://github.com/abdullahyahyamohammed/channa.io-1)
 - 😄 Pronouns: Abdullah
 <br>
 <p align="center">
