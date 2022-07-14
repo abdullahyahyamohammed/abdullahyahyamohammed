@@ -5,9 +5,9 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=channu7&layout=compact)
 
-- 🔭 I’m currently working on Computer vision
+- 🔭 I’m currently working on Text Mining and Computer vision
 - 🌱 I’m currently learning Deep learning
-- 👯 I’m looking to collaborate on Image Processing related works
+- 👯 I’m looking to collaborate on Natural Language Processing and Image Processing related works
 - 🤔 I’m open collaborations
 - 📫 How to reach me:[Abdullah Y Muaad](https://abdullahyahyamohammed.github.io/abdullahio/)
 - 😄 Pronouns: Abdullah
